@@ -1,3 +1,5 @@
+![Chantel Davies logo](https://raw.githubusercontent.com/cjjdavies/cjjdavies/blob/main/DET_09.png "Welcome to my GitHub")
+
 - 👋 Hi, I’m @Chantel
 - 👀 I’m interested in learning how to build websites from the ground up, and the various tools available to make them look nice. I also really like maths, statistics and probability theory, GIS applications and understanding how things work.
 - 🌱 I’m currently learning HTML5, CSS3, Bootstrap, Python.
