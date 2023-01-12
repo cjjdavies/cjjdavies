@@ -1,4 +1,4 @@
-![Chantel Davies logo](https://raw.githubusercontent.com/cjjdavies/cjjdavies/main/DET_09.png "Welcome to my GitHub"){fig.width = "50%"}
+<img src="https://raw.githubusercontent.com/cjjdavies/cjjdavies/main/DET_09.png" alt-text="aspen logo" width=50%>
 
 - 👋 Hi, I’m Chantel
 - 👀 I’m interested in learning how to build websites from the ground up, and the various tools available to make them look nice. I also really like maths, statistics and probability theory, GIS applications and understanding how things work.
