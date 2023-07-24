@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on projects on food, farming, land use and mental health.
 - View my website at https://cjjdavies.github.io/website/
 - 📫 How to reach me: info 'at' growing-research 'dot' com
-- <a rel="me" href="https://mastodon.scot/@cdavies">Mastodon</a>
+<a rel="me" href="https://mastodon.scot/@cdavies">Mastodon</a>
 
 <!---
 cjjdavies/cjjdavies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
