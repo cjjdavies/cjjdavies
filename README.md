@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML5, CSS3, Bootstrap, Python.
 - 💞️ I’m looking to collaborate on projects on food, farming, land use and mental health.
 - View my website at https://cjjdavies.github.io/website/
-- 📫 How to reach me: info 'at' growing-research 'dot' com
+- 📫 How to reach me: info 'at' growing-research 'dot' com or <a rel="me" href="https://mastodon.scot/@cdavies">Mastodon</a>
 
 <!---
 cjjdavies/cjjdavies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
