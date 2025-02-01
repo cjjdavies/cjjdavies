@@ -5,7 +5,8 @@
 - 🌱 I mostly work in R/ RStudio, sometimes including elements of HTML5, CSS3, Bootstrap, Python, Javascript.
 - 💞️ I’m looking to collaborate on projects on food, farming, land use and mental health.
 - View my website at https://cjjdavies.github.io/website/
-- 📫 How to reach me: info 'at' growing-research 'dot' com or <a rel="me" href="https://mastodon.scot/@cdavies">Mastodon</a>
+- 📫 How to reach me: c.davies 'at' growing-research 'dot' com or <a rel="me" href="https://mastodon.scot/@cdavies">Mastodon</a>
+- From 2025 I'll be moving most projects to Codeberg, and not maintaining or updating anything here, unless it's work-related.
 
 <!---
 cjjdavies/cjjdavies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
